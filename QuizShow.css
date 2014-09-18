@@ -1,0 +1,23 @@
+#questionBox {
+    width: 50%;
+    margin-top: 15%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#questionBox div{
+    width: 49%;
+    height: 30px;
+    border: 1px solid black;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+}
+
+input{
+    width: 100px;
+    height: 20px;
+    margin-left: 50%;
+    margin-right: 50%;
+    border: 1px solid black;
+}
